@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import {View, StyleSheet} from 'react-native';
+import {View, SafeAreaView, StyleSheet, Text} from 'react-native';
 
 import {DefaultAtom} from '_atoms';
 import {DefaultMolecule} from '_molecules';
@@ -14,12 +14,12 @@ export default class Username extends Component {
 
   render() {
     return (
-      <View>
+      <SafeAreaView>
         <Text>Main Screen</Text>
         <DefaultAtom />
         <DefaultMolecule />
         <DefaultOrganism />
-      </View>
+      </SafeAreaView>
     );
   }
 }
