@@ -24,6 +24,7 @@ export default class Username extends Component {
         <DefaultAtom />
         <DefaultMolecule />
         <DefaultOrganism />
+        <Text>hoi</Text>
       </SafeAreaView>
     );
   }
