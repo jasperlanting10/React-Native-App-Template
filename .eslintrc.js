@@ -20,6 +20,7 @@ module.exports = {
           _utils: './src/utils',
           _content: './src/content',
           _models: './src/models',
+          _languages: './src/languages',
         },
       },
     },

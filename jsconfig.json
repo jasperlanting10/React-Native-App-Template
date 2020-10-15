@@ -13,7 +13,9 @@
       "_styles": ["src/styles/*"],
       "_utils": ["src/utils/*"],
       "_content": ["src/utils/content"],
-      "_models": ["src/utils/models"]
+      "_models": ["src/utils/models"],
+      "_languages": ["./src/languages"]
+
     }
   }
 }

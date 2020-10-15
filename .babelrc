@@ -18,7 +18,8 @@
           "_styles": "./src/styles",
           "_utils": "./src/utils",
           "_content": "./src/content",
-          "_models": "./src/models"
+          "_models": "./src/models",
+          "_languages": "./src/languages"
         }
       }
     ]
